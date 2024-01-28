@@ -1,4 +1,4 @@
-### ✨ About Me  ✨
+# ✨ About Me  ✨
 🌟 Data whisperer <br>
 📊 Data Scientist with an M.Sc. in Data Science from BGU <br>
 💬 Drop me a line about any of my repos – I'm all ears and love chatting about my projects! [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/nitzan-barzilay](https://www.linkedin.com/in/shahar-shcheranski/)) <br>
