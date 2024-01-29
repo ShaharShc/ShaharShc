@@ -13,11 +13,12 @@
 ## [ChatGPT-HateSpeech](https://github.com/ShaharShc/ChatGPT-HateSpeech) (2023)
 #### NLP project: Hate speech and target detection using prompting and ChatGPT
 In this project, we conducted a comprehensive analysis, both quantitative and qualitative, of ChatGPT's performance in hate speech and target identification. This study employed three distinct prompting techniques: zero-shot, one-shot, and few-shot.
-
-
-
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
 ## [DataAndCulture](https://github.com/ShaharShc/DataAndCulture) (2022)
+### EDA project: analyzing and visualizing the Age dataset
+In this project, we aim to conduct exploratory data analysis on the Age dataset by preprocessing, augmenting with additional sources, visualizing data, performing sentiment analysis, and exploring correlations with events.
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
 <!--
 **ShaharShc/ShaharShc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
