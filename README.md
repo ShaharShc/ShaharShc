@@ -43,7 +43,7 @@ This project integrates HTML for structure and design, JavaScript for functional
 [Start Playing](https://web-development-environments-2021.github.io/Assignment2_205890320_313326985)🎮
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white
-) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jQuery
+) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jQuery)
 
 
 ## [SearchEngine](https://github.com/ShaharShc/SearchEngine) (2021)
