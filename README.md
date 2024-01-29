@@ -8,7 +8,7 @@
 ) ![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat&logo=Node.js
 ) ![Vue.js](https://img.shields.io/badge/Vue.js-white?style=flat&logo=vue.js)
 
-# Data Science Public Projects
+# Data Science Projects
 
 ## [ChatGPT-HateSpeech](https://github.com/ShaharShc/ChatGPT-HateSpeech) (2023)
 #### NLP project: Hate speech and target detection using prompting and ChatGPT
