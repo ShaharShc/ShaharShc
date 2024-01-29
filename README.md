@@ -6,9 +6,10 @@
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![Java](https://img.shields.io/badge/Java-3670A0.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript
 ) ![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat&logo=Node.js
-) ![Vue.js](https://img.shields.io/badge/Vue.js-white?style=flat&logo=vue.js)
+) ![Vue.js](https://img.shields.io/badge/Vue.js-white?style=flat&logo=vue.js) ![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html
+)
 
-# 👩‍💻 Data Science Projects
+# 🔎 Data Science Projects
 
 ## [ChatGPT-HateSpeech](https://github.com/ShaharShc/ChatGPT-HateSpeech) (2023)
 #### NLP project: Hate speech and target detection using prompting and ChatGPT
@@ -17,10 +18,38 @@ In this project, we conducted a comprehensive analysis, both quantitative and qu
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
 ## [DataAndCulture](https://github.com/ShaharShc/DataAndCulture) (2022)
-### EDA project: analyzing and visualizing the Age dataset
+#### EDA project: analyzing and visualizing the Age dataset
 In this project, we aim to conduct exploratory data analysis on the Age dataset by preprocessing, augmenting with additional sources, visualizing data, performing sentiment analysis, and exploring correlations with events.
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+
+
+# 👩‍💻 Software Development Projects
+
+## FootballLeagueManagement[BackEend](https://github.com/ShaharShc/FootballLeagueManagement-BackEnd)[FrontEnd](https://github.com/ShaharShc/FootballLeagueManagement-FrontEnd)
+#### Full-stack project
+This project developed in three stages including:
+- Rest API - with swagger.io
+- Backend - Node.js and Azure SQL DB
+- Frontend - Vue.js
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript) ![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat&logo=Node.js) ![Vue.js](https://img.shields.io/badge/Vue.js-white?style=flat&logo=vue.js)
+
+
+## [PacmanWebGame](https://github.com/ShaharShc/PacmanWebGame)
+#### An online packman game
+This project integrates HTML for structure and design, JavaScript for functionality, and jQuery for user management.
+[Start Playing](https://web-development-environments-2021.github.io/Assignment2_205890320_313326985)🎮
+
+![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html) ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat&logo=javascript) ![jQuery](https://img.shields.io/badge/jQuery-%230769AD?style=flat&logo=jQuery
+
+
+## [SearchEngine](https://github.com/ShaharShc/SearchEngine) (2021)
+#### Tweets search engine project: Information retrieval from twitter corpus.
+
+## [MazeGame](https://github.com/ShaharShc/MazeGame) (2020)
+
+
 
 <!--
 **ShaharShc/ShaharShc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
