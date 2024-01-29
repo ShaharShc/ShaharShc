@@ -8,6 +8,11 @@
 ) ![Node.js](https://img.shields.io/badge/Node.js-grey?style=flat&logo=Node.js
 ) ![Vue.js](https://img.shields.io/badge/Vue.js-white?style=flat&logo=vue.js)
 
+# Data Science Public Projects
+
+## [ChatGPT-HateSpeech](https://github.com/ShaharShc/ChatGPT-HateSpeech) (2023)
+
+## [DataAndCulture](https://github.com/ShaharShc/DataAndCulture) (2022)
 
 <!--
 **ShaharShc/ShaharShc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
