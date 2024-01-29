@@ -11,6 +11,11 @@
 # Data Science Public Projects
 
 ## [ChatGPT-HateSpeech](https://github.com/ShaharShc/ChatGPT-HateSpeech) (2023)
+#### NLP project: Hate speech and target detection using prompting and ChatGPT
+In this project, we conducted a comprehensive analysis, both quantitative and qualitative, of ChatGPT's performance in hate speech and target identification. This study employed three distinct prompting techniques: zero-shot, one-shot, and few-shot.
+
+
+
 
 ## [DataAndCulture](https://github.com/ShaharShc/DataAndCulture) (2022)
 
