@@ -1,7 +1,7 @@
 # ✨ About Me  ✨
 🌟 Data whisperer <br>
 📊 Data Scientist with an M.Sc. in Data Science from BGU <br>
-💬 Drop me a line about any of my repos – I'm all ears and love chatting about my projects! [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahar-shcheranski) [![Gmail](https://img.shields.io/badge/gmail-%23D14836.svg?&style=flat&logo=gmail&logoColor=white)](mailto:shahar.shc@gmail.com?subject=Test)
+💬 Drop me a line about any of my repos – I'm all ears and love chatting about my projects! [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahar-shcheranski)
 
 
 # 💻 Tech Stack
