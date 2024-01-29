@@ -40,6 +40,7 @@ This project developed in three stages including:
 ## [PacmanWebGame](https://github.com/ShaharShc/PacmanWebGame)
 #### An online packman game
 This project integrates HTML for structure and design, JavaScript for functionality, and jQuery for user management.
+
 [Start Playing](https://web-development-environments-2021.github.io/Assignment2_205890320_313326985)🎮
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html) ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E?style=flat&logo=javascript&logoColor=white
