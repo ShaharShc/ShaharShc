@@ -22,6 +22,20 @@ In this project, we aim to conduct exploratory data analysis on the Age dataset 
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 
+# 📖 Data Science Courses
+
+## [DeepReinforcementLearning](https://github.com/ShaharShc/DeepReinforcementLearning) (2023)
+Ben Gurion University "Deep Reinforcement Learning (372.2.5910)" course assignments & solutions
+
+## [DeepLearningCourse](https://github.com/ShaharShc/DeepLearningCourse) (2022)
+Ben Gurion University "Deep Learning (372.2.6101)" course assignments & solutions
+
+## [BigDataCourse](https://github.com/ShaharShc/BigDataCourse) (2022)
+Ben Gurion University "The Art of Analyzing Big Data - The Data Scientist’s Toolbox (372.2.5401)" course assignments & solutions
+
+## [MachineLearningCourse](https://github.com/ShaharShc/MachineLearningCourse) (2022)
+Ben Gurion University "Machine Learning (372.2.5214)" course assignments & solutions
+
 
 # 👩‍💻 Software Development Projects
 
