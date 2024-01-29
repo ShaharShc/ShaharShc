@@ -25,7 +25,7 @@ In this project, we aim to conduct exploratory data analysis on the Age dataset 
 
 # 👩‍💻 Software Development Projects
 
-## FootballLeagueManagement[BackEend](https://github.com/ShaharShc/FootballLeagueManagement-BackEnd)[FrontEnd](https://github.com/ShaharShc/FootballLeagueManagement-FrontEnd)
+## FootballLeagueManagement ([BackEend](https://github.com/ShaharShc/FootballLeagueManagement-BackEnd)) ([FrontEnd](https://github.com/ShaharShc/FootballLeagueManagement-FrontEnd))
 #### Full-stack web application
 This project developed using three tier pattern with REST API architecture and Azure SQL DB.
 
