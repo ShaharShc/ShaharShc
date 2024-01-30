@@ -44,9 +44,9 @@ Ben Gurion University "Machine Learning (372.2.5214)" course assignments & solut
 #### Full-stack web application
 In this project, we developed a full-stack web application tailored for watching and managing Super League games. We used three tier pattern with REST API architecture and Azure SQL DB.
 
-- <b> Backend: <b/>
+- <b> Backend: </b>
 Creating an API to interact with the sportmonks platform, where all communication with the platform occurs server-side via the API. This involves implementing all server-side API requests, including routing, middleware, and proper organization into classes. The backend handles all server-side logic for validation and communication.
-- <b> Frontend: <b/>
+- <b> Frontend: </b>
 Developing the client-side using the Vue.js platform, focusing on enhancing user experience in terms of visibility and ensuring correct retrieval of information during user login. Additionally, structuring and styling the application's appearance using packages from the Bootstrap site to improve overall usability.
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white
