@@ -25,7 +25,7 @@ In this project, we aim to conduct exploratory data analysis on the Age dataset 
 
 # 📖 Data Science Courses
 
-## [DeepReinforcementLearning](https://github.com/ShaharShc/DeepReinforcementLearning) (2023)
+## [DeepReinforcementLearningCourse](https://github.com/ShaharShc/DeepReinforcementLearningCourse) (2023)
 Ben Gurion University "Deep Reinforcement Learning (372.2.5910)" course assignments & solutions
 
 ## [DeepLearningCourse](https://github.com/ShaharShc/DeepLearningCourse) (2022)
