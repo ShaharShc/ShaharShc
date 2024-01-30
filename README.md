@@ -63,8 +63,20 @@ This project integrates HTML for structure and design, JavaScript for functional
 ## [SearchEngine](https://github.com/ShaharShc/SearchEngine) (2021)
 #### Tweets search engine project: Information retrieval from twitter corpus.
 
-## [MazeGame](https://github.com/ShaharShc/MazeGame) (2020)
+In this project, we bulid a Search engine, implementing Parser, Indexer, Searcher, and Ranker components, and maintain a large set of data.
+Additionally, We implemented five differenet retrieval methods using: Word2Vec, Global Method, Spelling Correction, Thesaurus and Word Net - and evaluated their effectiveness using MAP, Precision, and Recall metrics. 
 
+![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
+
+## [MazeGame](https://github.com/ShaharShc/MazeGame) (2020)
+#### Server-Client interactive responsive maze game application, communicating in TCP Protocol, using MVC Pattern
+
+The game was developed in multiple phases, incorporating various design patterns such as Strategy and Observer.
+- In the initial phase, we utilized Prim's algorithm to construct the maze and implemented three distinct search methods—BEST-FIRST SEARCH, BFS, DFS—to provide users with a solution.
+- During the second phase, we implemented bit compression to optimize storage and employed a client-server architecture with thread management for efficient time handling.
+- In the final step, emphasis was placed on enhancing the frontend, refining game design, and improving user experience through intuitive GUI enhancements.
+
+![Java](https://img.shields.io/badge/Java-3670A0.svg?style=flat&logo=java&logoColor=white)
 
 
 <!--
