@@ -13,6 +13,7 @@
 
 <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharshc&includeForks=true&hide=jupyter%20notebook,vim%20script,shell&langs_count=20&layout=donut&size_weight=1&count_weight=0"/></a>
 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharshc&hide=jupyter%20notebook,vim%20script,shell&langs_count=20&layout=donut&size_weight=1&count_weight=0"/></a>
 
 
 ---
