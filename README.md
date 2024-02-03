@@ -3,17 +3,10 @@
 📊 Data Scientist with an M.Sc. in Data Science from BGU <br>
 💬 Drop me a line about any of my repos – I'm all ears and love chatting about my projects! [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahar-shcheranski)
 
-
-
-
 # 💻 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=Python&logoColor=ffdd54)  ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=Numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=Plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white) ![MySQL](https://img.shields.io/badge/MySql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![AzureSQL](https://img.shields.io/badge/Azure%20SQL-%23CC2927?style=flat&logo=microsoftsqlserver&logoColor=white) ![Java](https://img.shields.io/badge/Java-3670A0.svg?style=flat&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E?style=flat&logo=javascript&logoColor=white
 ) ![Node.js](https://img.shields.io/badge/NodeJS-%23339933?style=flat&logo=nodedotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-white?style=flat&logo=vue.js) ![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html
 )
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaharshc&includeForks=true&hide=jupyter%20notebook,shell&layout=donut&size_weight=1&count_weight=0)](https://github.com/anuraghazra/github-readme-stats)
-
-
 
 
 ---
