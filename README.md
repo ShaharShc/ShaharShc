@@ -11,6 +11,10 @@
 ) ![Node.js](https://img.shields.io/badge/NodeJS-%23339933?style=flat&logo=nodedotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-white?style=flat&logo=vue.js) ![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html
 )
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaharshc&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
+
 ---
 
 # 🔎 Data Science Projects
