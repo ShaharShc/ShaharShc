@@ -11,8 +11,8 @@
 ) ![Node.js](https://img.shields.io/badge/NodeJS-%23339933?style=flat&logo=nodedotjs&logoColor=white) ![Vue.js](https://img.shields.io/badge/Vue.js-white?style=flat&logo=vue.js) ![HTML](https://img.shields.io/badge/html-%23E34F26?style=flat&logo=html
 )
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharshc&include_orgs=true&count_private=true&hide=jupyter%20notebook,vim%20script,shell&langs_count=10&exclude_repo=NAU-CYB410,CS212-web-programming&layout=compact&theme=graywhite" /></a>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shaharshc&hide=jupyter%20notebook,shell&size_weight=1&count_weight=0&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shaharshc&include_orgs=true&count_private=true&hide=jupyter%20notebook,vim%20script,shell&langs_count=10&layout=donut&theme=graywhite" /></a>
+
 
 
 ---
